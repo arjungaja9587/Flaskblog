@@ -63,7 +63,7 @@ Follow these steps to run FlaskBlog on your local machine.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/KRSaiVarun/FlaskBlog.git
+git clone https:/arjungaja9587/github.com//FlaskBlog.git
 cd FlaskBlog
 ```
 
@@ -85,7 +85,7 @@ Set required environment variables:
 
 **Optional Email Configuration (for password resets):**
 ```bash
-export EMAIL_USER="krsaivarun@gmail.com"
+export EMAIL_USER="arjungaja9587@gmail.com"
 export EMAIL_PASS="password"
 ```
 
@@ -267,7 +267,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **K. R. Sai Varun** - Initial work - [KRSaiVarun](https://github.com/KRSaiVarun)
+- **Arjun G** - Initial work - [Arjun G](https://github.com/arjungaja9587)
 
 ## 🙏 Acknowledgments
 
@@ -331,9 +331,9 @@ While Flask is perfect for this educational project, consider Django for:
 
 ## 📞 Contact
 
-- **GitHub**: [KRSaiVarun](https://github.com/KRSaiVarun)
-- **Project Link**: [https://github.com/KRSaiVarun/FlaskBlog](https://github.com/KRSaiVarun/FlaskBlog)
-- **Issues**: [GitHub Issues](https://github.com/KRSaiVarun/FlaskBlog/issues)
+- **GitHub**: [KRSaiVarun](https://github.com/arjungaja9587)
+- **Project Link**: [https://github.com/arjungaja9587/FlaskBlog](https://github.com/arjungaja9587/FlaskBlog)
+- **Issues**: [GitHub Issues](https://github.com/arjungaja9587/FlaskBlog/issues)
 
 
 
