@@ -331,7 +331,7 @@ While Flask is perfect for this educational project, consider Django for:
 
 ## 📞 Contact
 
-- **GitHub**: [KRSaiVarun](https://github.com/arjungaja9587)
+- **GitHub**: [Arjun.G](https://github.com/arjungaja9587)
 - **Project Link**: [https://github.com/arjungaja9587/FlaskBlog](https://github.com/arjungaja9587/FlaskBlog)
 - **Issues**: [GitHub Issues](https://github.com/arjungaja9587/FlaskBlog/issues)
 
