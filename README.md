@@ -1,4 +1,4 @@
-# FlaskBlog
+# Flaskblog
 
 A clean, feature-rich blog application built with the Flask framework. This project demonstrates core web development concepts including user authentication, database management, and CRUD operations.
 
